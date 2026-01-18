@@ -33,7 +33,7 @@ The dataset includes transactional sales records with fields such as:
 > (https://github.com/Krish2302404/Sales-Performance-Dashboard/blob/main/Screenshot%202025-06-12%20185837.png)
 
 ## 🧑‍💼 Author
-Krishna lathe
+Krishna ladhe
 
 
 ## 🚀 Conclusion
